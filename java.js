@@ -57,7 +57,7 @@ document.querySelector("#student-form").addEventListener("submit", (e) => {
           }
           clearFields();
 
-});
+}});
 
 // Edit Data
 

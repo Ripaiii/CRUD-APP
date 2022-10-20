@@ -1,0 +1,15 @@
+html{
+    background-color: rgb(246, 209, 209);
+}
+
+body{
+    background-color: white;
+    padding-left: 20px;
+}
+    
+.nav-bar{
+    color: black;
+    font-family: "Cinzel";
+    padding: 10px;
+}
+
